@@ -1,0 +1,57 @@
+*{
+    background-color:whitesmoke;
+}
+
+.MainDiv{
+    border: 1px solid black double;
+    background-color: white;
+    border-style: double;
+    width: 80%;
+    height:500px;
+    margin: auto;
+    margin-top:3.3% ;
+}
+.head{
+    margin-top:3.3% ;
+    text-align: center;
+    background-color: white;
+}
+.link{
+    text-align: center;
+    background-color: white;
+    margin-top: 4%;
+    border: 2px solid black;
+    border-bottom: 1px solid black;
+    width:57% ;
+    padding: 15px;
+    margin-left: 21%;
+    border-left: none;
+    border-right: none;
+}
+.link a{
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    margin-right:3%;
+    margin-left:3%;
+    font-family: monospace;
+    font-size: x-large;
+}
+ a:hover{
+    color: red;
+}
+.image{
+    background-color: white;
+    margin-top:2%;
+}
+img{
+    margin-left: 21%;
+    width: 60%;
+}
+.text{
+    background-color: white;
+    margin-top:2%;
+    margin-left: 23%;
+    font-family: monospace;
+    font-size: 18px;
+}
